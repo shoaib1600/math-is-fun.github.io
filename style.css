@@ -1,0 +1,152 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div.container{
+    width: 700px;
+    border: 3px solid black;
+    border-radius:10px;
+    margin: auto;
+    background-color: lightblue;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 30px;
+    column-gap: 10px;
+    row-gap: 10px;
+
+}
+.box{
+    margin: 1px;
+    background-color:lightseagreen;
+}
+.box1{
+    border: 1px solid black;
+    padding: 15px;
+}
+.p1{
+    font-size: 25px;
+    text-align: center;
+}
+.box2{
+    border: 1px solid black;
+    padding: 15px;
+}
+.p2{
+    text-align: center;
+    font-size: 25px;
+}
+.box3{
+    border: 1px solid black;
+    padding: 15px;
+}
+.p3{
+    text-align: center;
+    font-size: 25px;
+}
+.box4{
+    border: 1px solid black;
+    padding: 15px;
+}
+.p4{
+    text-align: center;
+    font-size: 25px;
+}
+.box5{
+    border: 1px solid black;
+    padding: 15px;
+}
+.p5{
+    text-align: center;
+    font-size: 25px;
+}
+.box6{
+    border: 1px solid black;
+    padding: 15px;
+}
+.p6{
+    text-align: center;
+    font-size: 25px;
+}
+.box7{
+    border: 1px solid black;
+    padding: 15px;
+}
+.p7{
+    text-align: center;
+    font-size: 25px;
+}
+.box8{
+    border: 1px solid black;
+    padding: 15px;
+}
+.p8{
+    text-align: center;
+    font-size: 25px;
+}
+.box9{
+    border: 1px solid black;
+    padding: 15px;
+}
+.p9{
+    text-align: center;
+    font-size: 25px;
+}
+.box10{
+    border: 1px solid black;
+    padding: 15px;
+}
+.p10{
+    text-align: center;
+    font-size: 25px;
+}
+.box11{
+    border: 1px solid black;
+    padding: 15px;
+}
+.p11{
+    text-align: center;
+    font-size: 25px;
+}
+.box12{
+    border: 1px solid black;
+    padding: 15px;
+}
+.p12{
+    text-align: center;
+    font-size: 25px;
+}
+.box13{
+    padding: 15px;
+    grid-row: 5;
+    grid-column: 1/4;
+    display: flex;
+    justify-content: space-between;
+    background-color: lightblue;
+
+}
+.smbox1{
+    width: 130px;
+    border: 1px solid black;
+    height: 60px;
+    padding-right: 100px;
+    background-color: lightseagreen;
+}
+.p13{
+    text-align: center;
+    font-size: 25px;
+    margin-top: 15px;
+    margin-left: 50px;
+}
+.smbox2{
+    width: 130px;
+    border: 1px solid black;
+    height: 60px;
+    padding-right: 100px;
+    background-color: lightseagreen;
+}
+.p14{
+    text-align: center;
+    font-size: 25px;
+    margin-left: 65px;
+    margin-top: 15px;
+}
